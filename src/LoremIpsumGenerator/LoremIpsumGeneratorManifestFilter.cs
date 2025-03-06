@@ -12,7 +12,8 @@ namespace Umbraco.Community.LoremIpsumGenerator
             {
                 PackageName = "Lorem Ipsum Generator ",
                 Version = assembly.GetName()?.Version?.ToString(3) ?? "0.1.0",
-                AllowPackageTelemetry = true
+                AllowPackageTelemetry = true,
+                BundleOptions = BundleOptions.Independent
             });
         }
     }
