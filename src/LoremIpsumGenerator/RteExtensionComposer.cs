@@ -18,7 +18,7 @@ public class RteExtensionComposer : IComposer
             var commands = settings.Commands.ToList();
             commands.Add(new RichTextEditorCommand
             {
-                Alias = "loremIpsum",
+                Alias = "loremIpsumButton",
                 Name = "Lorem Ipsum",
                 Mode = Cms.Core.Models.ContentEditing.RichTextEditorCommandMode.Insert
             });
