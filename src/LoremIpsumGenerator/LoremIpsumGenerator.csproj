@@ -8,7 +8,7 @@
     <Product>Umbraco.Community.LoremIpsumGenerator</Product>
     <PackageId>Umbraco.Community.LoremIpsumGenerator</PackageId>
     <Title>LoremIpsumGenerator</Title>
-    <Description>...</Description>
+    <Description>The "Lorem Ipsum Generator" package creates lorem ipsum in the RTE.</Description>
     <PackageTags>umbraco;umbraco-marketplace</PackageTags>
     <RootNamespace>Umbraco.Community.LoremIpsumGenerator</RootNamespace>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
