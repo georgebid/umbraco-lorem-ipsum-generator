@@ -6,11 +6,11 @@
 
 ## Installation
 
-Add the package to an existing Umbraco website (v13+) from nuget:
+Add the package to an existing Umbraco website (v13+) from Nuget:
 
 `dotnet add package Umbraco.Community.LoremIpsumGenerator`
 
-The "Lorem Ipsum Generator" package is designed for use with Umbraco CMS. It provides functionality to generate placeholder text (Lorem Ipsum) within the Rich Text Editor (TinyMce) in the Umbraco back office. This can be useful for developers and content editors who need to fill content areas with sample text during the development and testing phases of a project.
+The "Lorem Ipsum Generator" package is designed for use with Umbraco CMS. It provides functionality to generate placeholder text (Lorem Ipsum) within the Rich Text Editor (TinyMCE) in the Umbraco back office. This can be useful for developers and content editors who need to fill content areas with sample text during the development and testing phases of a project.
 Chose between:
 
 •	1 sentence of Lorem Ipsum.
