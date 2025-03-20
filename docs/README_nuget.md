@@ -14,13 +14,7 @@ Chose between:
   
 - Any number of sentences.
 
-After installation, update the Rich Text Editor Document Type to allow the Lorem Ipsum button:
-
-![image](https://github.com/user-attachments/assets/d6ccec5b-b542-42b0-b57c-02ac8ab75548)
-
-This will add a drop-down to the Rich Text Editor to allow you to add different amounts of Lorem Ipsum to your property:
-![1-sentence](https://github.com/user-attachments/assets/f8385edd-bc94-4808-a3d0-3e5dc1c0fc0c)
-![specify- chars](https://github.com/user-attachments/assets/592ee5c4-addc-46f5-b3d9-b44ef1629c39)
+After installation, update the Rich Text Editor Document Type to enable the Lorem Ipsum button. Once this is done, the dropdown will appear in the toolbar.
 
 
 **Note:** This package is compatible only with Umbraco version 13.

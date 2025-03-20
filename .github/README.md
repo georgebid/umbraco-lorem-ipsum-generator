@@ -6,7 +6,7 @@
 
 ## Installation
 
-Add the package to an existing Umbraco website (v13+) from Nuget:
+Add the package to an existing Umbraco website (v13+) from NuGet:
 
 `dotnet add package Umbraco.Community.LoremIpsumGenerator`
 

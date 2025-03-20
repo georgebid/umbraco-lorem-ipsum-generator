@@ -12,7 +12,7 @@
     <PackageTags>umbraco;umbraco-marketplace</PackageTags>
     <RootNamespace>Umbraco.Community.LoremIpsumGenerator</RootNamespace>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>0.1.3</Version>
+    <Version>0.1.4</Version>
     <Authors>Georgina Bidder</Authors>
     <Copyright>$([System.DateTime]::UtcNow.ToString(`yyyy`)) © Georgina Bidder</Copyright>
     <PackageProjectUrl>https://github.com/georgebid/umbraco-lorem-ipsum-generator</PackageProjectUrl>
